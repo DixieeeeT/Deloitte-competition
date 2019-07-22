@@ -1,2 +1,2 @@
 # Deloitte-competition
-This is the test from Deloitte competition
+This project aims to build up a static site for Deloitte digital difference competition.
