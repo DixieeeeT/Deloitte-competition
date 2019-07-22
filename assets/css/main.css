@@ -1978,10 +1978,10 @@ ul.icons {
     #banner a:hover {
       color: #ffffff; }
   #banner video {
-    -moz-transform: translateX(100%) translateY(100%);
-    -webkit-transform: translateX(100%) translateY(100%);
-    -ms-transform: translateX(100%) translateY(100%);
-    transform: translateX(100%) translateY(100%);
+    -moz-transform: translateX(50%) translateY(50%);
+    -webkit-transform: translateX(50%) translateY(50%);
+    -ms-transform: translateX(50%) translateY(50%);
+    transform: translateX(50%) translateY(50%);
     bottom: 50%;
     height: auto;
     min-height: 100%;
@@ -2058,10 +2058,10 @@ ul.icons {
 
 /* CTA */
 #cta {
-  background-color: #ce1b28;
+  background-color: #86bc25;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
+  background-image: linear-gradient(rgba(134, 188, 37, 0.25), rgba(134, 188, 37, 0.25)), url(../../images/cta01.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
