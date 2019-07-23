@@ -417,9 +417,9 @@ input[type="url"] {
 select {
   background-size: 1.25rem;
   background-repeat: no-repeat;
-  background-position: /*calc(100% - 1rem)*/ center;
+  background-position: calc(100% - 1rem) center;
   height: 3.25rem;
-  padding-right: 3.25rem;
+  /*padding-right: 3.25rem;*/
   text-overflow: ellipsis; }
   select:focus::-ms-value {
     background-color: transparent; }
