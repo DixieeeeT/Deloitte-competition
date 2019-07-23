@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
-@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+/*@import url(http://fonts.googleapis.com/css?family=Varela+Round);*/
 /*
 	Industrious by TEMPLATED
 	templated.co @templatedco
@@ -351,7 +351,7 @@ button,
   .button.primary {
     box-shadow: none;
     background-color: #86BC25;
-    color: #ffffff !important; }
+    color: #000000 !important; }
     input[type="submit"].primary:hover,
     input[type="reset"].primary:hover,
     input[type="button"].primary:hover,
