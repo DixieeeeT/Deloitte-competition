@@ -957,10 +957,12 @@ ul.actions {
   display: flex;
   cursor: default;
   list-style: none;
-  margin-left: -1rem;
-  padding-left: 0; }
+  /*margin-left: -1rem;
+  padding-left: 0;*/
+  justify-content: center;
+  align-items: center; }
   ul.actions li {
-    padding: 0 0 0 1rem;
+    padding: 1rem 0 0 1rem;
     vertical-align: middle; }
   ul.actions.special {
     -moz-justify-content: center;
