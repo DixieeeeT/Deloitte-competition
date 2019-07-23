@@ -2094,7 +2094,7 @@ ul.icons {
   #cta .button {
     background-color: transparent;
     box-shadow: inset 0 0 0 1px #ffffff;
-    color: #ffffff !important; }
+    color: #000000 !important; }
     #cta input[type="submit"]:hover,
     #cta input[type="reset"]:hover,
     #cta input[type="button"]:hover,
