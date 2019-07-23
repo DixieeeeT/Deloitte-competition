@@ -2826,9 +2826,3 @@ body.is-menu-visible #menu {
 #cta
   .col-12 {
     position: center; }
-
-#cta
-  .col-12
-    #category {
-      position: center;
-    }
