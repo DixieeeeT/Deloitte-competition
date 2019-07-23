@@ -2825,5 +2825,11 @@ body.is-menu-visible #menu {
 /* New */
 #cta
   .col-12 {
-    position: center;
-}
+    text-align: center;
+    text-align-last: center; }
+
+#cta
+  .col-12
+    #category {
+      position: center;
+    }
