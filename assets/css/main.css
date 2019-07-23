@@ -1088,7 +1088,9 @@ ul.actions {
 .row > .off-11 {
   margin-left: 91.6666666667%; }
 .row > .col-12 {
-  width: 50%; }
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25% }
 .row > .off-12 {
   margin-left: 100%; }
 .row.gtr-0 {
