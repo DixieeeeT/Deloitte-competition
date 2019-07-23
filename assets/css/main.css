@@ -1088,8 +1088,7 @@ ul.actions {
 .row > .off-11 {
   margin-left: 91.6666666667%; }
 .row > .col-12 {
-  width: 100%; 
-  position: center}
+  width: 100%; }
 .row > .off-12 {
   margin-left: 100%; }
 .row.gtr-0 {
@@ -2825,4 +2824,5 @@ body.is-menu-visible #menu {
 /* New */
 #cta
   .col-12 {
-    position: center; }
+    position: center; 
+    padding:0,20,0,20; }
