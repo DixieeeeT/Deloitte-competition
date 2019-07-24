@@ -2002,24 +2002,24 @@ ul.icons {
     background: #111111;
     content: '';
     display: block;
-    height: 175%;
+    height: 1080px;
     left: 0;
     opacity: 0.45;
     position: absolute;
     top: 0;
-    width: 175%;
+    width: 1920px;
     z-index: 1; }
   #banner:after {
     background: linear-gradient(135deg, #86BC25 0%, #111111 40%);
     content: ' ';
     display: block;
-    height: 175%;
+    height: 1080px;
     left: 0;
     opacity: 0.3;
     position: absolute;
     top: 0;
     webkit-linear-gradientidth: 175%;
-    width: 175%;
+    width: 1920px;
     z-index: 1; }
   #banner.small {
     height: 30vh !important;
