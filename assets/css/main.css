@@ -1817,7 +1817,7 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 35rem !important;
+  height: 35rem /*!important*/;
   min-height: 35rem;
   overflow: hidden;
   position: relative;
@@ -2018,7 +2018,7 @@ ul.icons {
     opacity: 0.3;
     position: absolute;
     top: 0;
-    webkit-linear-gradientidth: 175%;
+    webkit-linear-gradientidth: 100%;
     width: 1920px;
     z-index: 1; }
   #banner.small {
@@ -2029,11 +2029,11 @@ ul.icons {
       display: none; } }
   @media screen and (max-width: 736px) {
     #banner {
-      height: auto !important;
+      height: auto /*!important*/;
       min-height: 0;
       padding: 4rem 2rem 4rem 2rem; }
       #banner .inner {
-        width: 100%; }
+        width: 75%; }
       #banner h1 {
         font-size: 1.75rem;
         margin-bottom: 0.5rem;
