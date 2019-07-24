@@ -1817,12 +1817,12 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 35rem /*!important*/;
+  height: 1080px /*!important*/;
   min-height: 35rem;
   overflow: hidden;
   position: relative;
   text-align: center;
-  width: 100%; }
+  width: 1920px; }
   #banner input, #banner select, #banner textarea {
     color: #ffffff; }
   #banner a {
@@ -2002,24 +2002,24 @@ ul.icons {
     background: #111111;
     content: '';
     display: block;
-    height: 1080px;
+    height: 100%;
     left: 0;
     opacity: 0.45;
     position: absolute;
     top: 0;
-    width: 1920px;
+    width: 100%;
     z-index: 1; }
   #banner:after {
     background: linear-gradient(135deg, #86BC25 0%, #111111 40%);
     content: ' ';
     display: block;
-    height: 1080px;
+    height: 100%;
     left: 0;
     opacity: 0.3;
     position: absolute;
     top: 0;
     webkit-linear-gradientidth: 100%;
-    width: 1920px;
+    width: 100%;
     z-index: 1; }
   #banner.small {
     height: 30vh !important;
