@@ -2066,6 +2066,7 @@ ul.icons {
   background-size: cover;
   position: relative;
   text-align: center;
+  width: 1920px;
   z-index: 1; }
   #cta input, #cta select, #cta textarea {
     color: #000000; }
@@ -2207,7 +2208,8 @@ ul.icons {
 #footer {
   background-color: #111111;
   color: rgba(255, 255, 255, 0.5);
-  padding: 8rem 0 6rem 0 ; }
+  padding: 8rem 0 6rem 0 ;
+  width: 1920px; }
   #footer input, #footer select, #footer textarea {
     color: #ffffff; }
   #footer a {
@@ -2833,7 +2835,7 @@ body.is-menu-visible #menu {
   background-position: 100% 100%;
   background-repeat: no-repeat;
   background-size: cover;
-}
+  width: 1920px; }
 #calculation .contents {
   display: -moz-flex;
   display: -webkit-flex;
