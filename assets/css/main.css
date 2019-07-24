@@ -1,6 +1,5 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
-/*@import url(http://fonts.googleapis.com/css?family=Varela+Round);*/
 
 /* Basic */
 @-ms-viewport {
@@ -571,7 +570,7 @@ ul {
       margin-bottom: 1rem; }
       ul.plain li .icon {
         border-radius: 4px;
-        color: #000000;
+        color: #ffffff;
         display: inline-block;
         margin-right: 1rem;
         text-align: center;
@@ -1817,12 +1816,12 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 1040px !important;
+  height: 1080px !important;
   min-height: 35rem;
   overflow: hidden;
   position: relative;
   text-align: center;
-  width: 1900px; }
+  width: 1920px; }
   #banner input, #banner select, #banner textarea {
     color: #ffffff; }
   #banner a {
