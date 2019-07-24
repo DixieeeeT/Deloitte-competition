@@ -1817,12 +1817,12 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 1080px !important;
+  height: 1040px !important;
   min-height: 35rem;
   overflow: hidden;
   position: relative;
   text-align: center;
-  width: 1920px; }
+  width: 1900px; }
   #banner input, #banner select, #banner textarea {
     color: #ffffff; }
   #banner a {
@@ -2010,12 +2010,12 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #86BC25 0%, #111111 40%);
+    background: linear-gradient(135deg, #86BC25 0%, #111111 50%);
     content: ' ';
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0.3;
+    opacity: 0.35;
     position: absolute;
     top: 0;
     webkit-linear-gradientidth: 100%;
