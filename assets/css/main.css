@@ -2190,7 +2190,7 @@ ul.icons {
   #cta table.alt tbody tr td {
     border-color: rgba(255, 255, 255, 0.25); }
   #cta .highlights .content {
-    background: #86BC25;
+    background:rgba(255, 255, 255, 0.3);
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
   #cta .testimonials .content {
     background: #86BC25;
