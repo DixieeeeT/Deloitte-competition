@@ -29,7 +29,7 @@ ul {
 
 .tab .box .menus li {
     width: 200px;
-    height: 140px;
+    height: 200px;
     background: rgb(92,94,103);
     font-size: 14px;
     vertical-align: middle;
@@ -46,9 +46,9 @@ ul {
     border-bottom: none; }
 
 .tab .box .bg {
-    height: 210px !important;
+    height: 230px !important;
     background: #86bc25 !important;
-    line-height: 110px !important; }
+    line-height: 210px !important; }
 
 .tab .right {
     float: left;
