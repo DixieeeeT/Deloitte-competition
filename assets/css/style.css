@@ -1,3 +1,5 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
 
 * {
     margin: 0;
@@ -23,7 +25,7 @@ ul {
     height: 630px;
     padding-left: 0 !important;
     float: left;
-    margin-top: 110px;
+    margin-top: 85px;
     border-radius: 10px 10px 10px 10px;
     overflow: hidden; }
 
@@ -31,7 +33,7 @@ ul {
     width: 200px;
     height: 200px;
     background: rgb(92,94,103);
-    font-size: 14px;
+    font-size: 15px;
     vertical-align: middle;
     color: #fff;
     text-align: center;
@@ -48,12 +50,12 @@ ul {
 .tab .box .bg {
     height: 230px !important;
     background: #86bc25 !important;
-    line-height: 210px !important; }
+    line-height: 100px !important; }
 
 .tab .right {
     float: left;
     width: 950px;
-    margin-top: 25px;
+    margin-top: 0px;
     height: 800px;
     overflow: hidden;
     margin-left: 50px; }
@@ -77,3 +79,19 @@ ul {
     -moz-transition: all 0.5s;
     -o-transition: all 0.5s;
     -webkit-transition: all 0.5s; }
+
+.card-fouth{padding:62px 0 88px;background:rgba(246,246,246,.31)}
+.card-fouth .desc.desc-list{font-size:0;color:#3a3a3a;font-weight:200;width:1000px;margin:0 auto;margin-bottom:45px;white-space:nowrap;overflow:hidden;text-align:center}
+    
+.card-fouth .industry{font-size:18px;color:#999;padding:15px 0;display:inline-block;border-bottom:1px solid hsla(0,0%,85%,.4);width:120px}
+.card-fouth .industry.first{padding-left:0}
+.card-fouth .industry.last{padding-right:0}
+.card-fouth .industry.active{padding-bottom:14px}
+.card-fouth .industry span{font-family:"Raleway", Arial, Helvetica, sans-serif;font-weight:400}
+.card-fouth .industry.active span{font-size:22px;font-weight:700;color:#86bc25;border-bottom:5px solid #86bc25;padding-bottom:5px;font-weight:500}
+    
+.card-fouth .case-container{position:relative;width:1280px;margin:0 auto;height:720px}
+.card-fouth .case-panel{position:absolute;z-index:1;opacity:0;overflow:hidden}
+.card-fouth .case-panel.active{z-index:100;opacity:1;-webkit-transition:all .2s ease-out .1s;transition:all .2s ease-out .1s}
+.card-fouth .case-preview{display:inline-block;width:576px;position:relative;top:28px;left:-60px;z-index:200}
+    
