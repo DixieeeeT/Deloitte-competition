@@ -2840,10 +2840,10 @@ body.is-menu-visible #menu {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex; 
-  margin-left: 162px;
+  margin-left: 300px;
   margin-top: 10px;
   margin-bottom: 25px;
-  margin-right: 162px; }
+  margin-right: 300px; }
   #calculation .contents section {
     width: 100%; }
 #calculation .copyright {
