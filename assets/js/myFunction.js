@@ -1,5 +1,5 @@
 function myFunction()
 {
-    alert("Alright, we have collected your investor type and put it into our model.\n\nMove forward to next part to see your customized investment plan.")
+    alert("Congratulations! OSM has colllected your preference.\n\nMove forward to next part to see your investment plan!")
 }
 
